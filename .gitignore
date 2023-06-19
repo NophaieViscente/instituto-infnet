@@ -154,6 +154,8 @@ cython_debug/
 
 # Data no upload
 data/
+*.db
+*.db-journal
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
